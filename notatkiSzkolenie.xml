@@ -1,0 +1,17 @@
+﻿dane.get(klucz) -> jak nie ma klucza zwroci nd a nie raisuje error
+nowe ploty -> plotly
+** -> rozpakowywuje elementy np. **locals()
+pyformat.info
+testy mutacyjne
+klasy domieszkowe 
+http://python.astrotech.io
+
+Przykład dynamicznego pola stworzy tyle pol z wartosciami ile poda mu user
+class Kontakt:
+    def __init__(self, **kwargs):
+        for key, value in kwargs.items():
+            setattr(self, key, value)
+			
+raise NotImplementedError - zamiast pass
+
+funkcja do zapisywania wyskresow do pdfa uzywajac with open file.txt as file
