@@ -15,3 +15,15 @@ class Kontakt:
 raise NotImplementedError - zamiast pass
 
 funkcja do zapisywania wyskresow do pdfa uzywajac with open file.txt as file
+
+
+pycodestyle zad8.py
+rst - do pisania dokumentacji
+reavealjs - prezentacje
+
+os.walk - moze przechodzic wglab i w szerz.
+💩
+sys.pat.insert(0, path) - dodaj na poczatek do patha
+shlex - rozdziela polecnia systemowe (niweluje problem z pomijaniem białych znaków między komendami)
+tempfile - pliki tymczasowe
+co do progress bara -> ustawić ze ma sie wyswietlac zawsze w ostatniej lini 
